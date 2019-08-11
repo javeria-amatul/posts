@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/lightYellow"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/postTextView"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_weight="75"
+        android:lines="1"
+        android:padding="10dp"
+        android:text="some post"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        android:gravity="center"/>
+</LinearLayout>

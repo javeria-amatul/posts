@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Post</string>
+    <string name="title_activity_pop_up">PopUpActivity</string>
+</resources>
